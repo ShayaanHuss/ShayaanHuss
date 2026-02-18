@@ -14,7 +14,7 @@ I'm currently an aspiring software engineering going to Boston University. A lot
 
 Mirroror is a live raytracer which allows you to customize a funhouse mirror, then see exactly how it would look in real life. It works through OpenGL shaders, alongside a Bezier curve creator to make sure you get a nice looking mirror.
 
-This was made during the HackBeanpot hackathon and won the funhouse favorite award! [Thanks for the steam gift card :)] It was made for the carnival theme as we thought that the fun of those silly mirrors shouldn't be kept to the carnival, and anything like it was just a filter. This one allows you to customize it and see certain effects you could only get by live raytracing such as focal points (You can move the mirror back and forth using w and s). Have fun!
+This was made during the HackBeanpot hackathon and won the Funhouse Favorite award! [Thanks for the steam gift card :)] It was made for the carnival theme as we thought that the fun of those silly mirrors shouldn't be kept to the carnival, and anything like it was just a filter. This one allows you to customize it and see certain effects you could only get by live raytracing such as focal points (You can move the mirror back and forth using w and s). Have fun!
 
 Try it out here: https://hack-beanpot-26.vercel.app
 
@@ -28,8 +28,8 @@ Try it out here: https://hack-beanpot-26.vercel.app
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=flat&logo=css&logoColor=white)
 <!--
 **ShayaanHuss/ShayaanHuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
